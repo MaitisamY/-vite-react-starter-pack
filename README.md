@@ -39,7 +39,7 @@ import SomeComponent from '../path_directory/filename.ext'
 In here we use like:
 
 ```
-import SomeComponent from '@/path_directory/filename'
+import SomeComponent from '@path_directory/filename'
 ```
 
 
