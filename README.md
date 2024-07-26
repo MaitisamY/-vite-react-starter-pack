@@ -6,7 +6,7 @@
 ** Following are the packages/ libraries that are needed for some basic application 
 having Form, Backend API Handling, Router, SEO, unit tests and stuff.
 
-** Make sure to update them and add as many more as you like.
+** Make sure to update them and add as many more as you like.**
 
 --------------------------------------------------------------------------------------
 |   yup                                                                              |
@@ -15,7 +15,6 @@ having Form, Backend API Handling, Router, SEO, unit tests and stuff.
 |   axios                                                                            |
 |   formik                                                                           |
 |   react-dom                                                                        |
-|   babel-jest                                                                       |
 |   react-icons                                                                      |
 |   react-toastify                                                                   |
 |   react-router-dom                                                                 |
@@ -24,7 +23,7 @@ having Form, Backend API Handling, Router, SEO, unit tests and stuff.
 |   vite-plugin-sitemap                                                              |
 --------------------------------------------------------------------------------------
 
-** You do not have to specify any extentions suffix to any file in this system.
+** You do not have to specify any extentions suffix to any file in this system. **
 
 Run npm i 
 
@@ -33,3 +32,7 @@ then
 Run npm run dev 
 
 Check the port assigned to you! It will by default be http://localhost:5173/
+
+Do not forget to build when you are ready for the production
+
+Run npm run build

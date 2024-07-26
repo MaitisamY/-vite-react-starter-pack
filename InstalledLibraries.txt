@@ -11,7 +11,6 @@ Make sure to update them and add as many more as you like.
 |   axios                                                                            |
 |   formik                                                                           |
 |   react-dom                                                                        |
-|   babel-jest                                                                       |
 |   react-icons                                                                      |
 |   react-toastify                                                                   |
 |   react-router-dom                                                                 |
@@ -29,3 +28,7 @@ then
 Run npm run dev 
 
 Check the port assigned to you! It will by default be http://localhost:5173/
+
+Do not forget to build when you are ready for the production
+
+Run npm run build
