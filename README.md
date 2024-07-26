@@ -1,38 +1,50 @@
 # Vite + React
-## Starter Pack 
-### It's a perfect starter, easy to understand and everything is sorted, you just need to roam around a bit!
 
+## Starter Pack
 
-** Following are the packages/ libraries that are needed for some basic application 
-having Form, Backend API Handling, Router, SEO, unit tests and stuff.
+### It's a perfect starter, easy to understand, and everything is sorted. You just need to roam around a bit!
 
-** Make sure to update them and add as many more as you like.**
+**Following are the packages/libraries that are needed for some basic application having Form, Backend API Handling, Router, SEO, unit tests, and stuff.**
 
---------------------------------------------------------------------------------------
-|   yup                                                                              |
-|   jest                                                                             |
-|   react                                                                            |
-|   axios                                                                            |
-|   formik                                                                           |
-|   react-dom                                                                        |
-|   react-icons                                                                      |
-|   react-toastify                                                                   |
-|   react-router-dom                                                                 |
-|   styled-components                                                                |
-|   react-helmet-async                                                               |
-|   vite-plugin-sitemap                                                              |
---------------------------------------------------------------------------------------
+**Make sure to update them and add as many more as you like.**
 
-** You do not have to specify any extentions suffix to any file in this system. **
+| Package Name        | Description                                     |
+|---------------------|-------------------------------------------------|
+| `yup`               | Schema builder for value parsing and validation |
+| `jest`              | JavaScript Testing Framework                    |
+| `react`             | JavaScript library for building user interfaces |
+| `axios`             | Promise based HTTP client for the browser       |
+| `formik`            | Form library for React                          |
+| `react-dom`         | Entry point to the DOM and server renderers for React |
+| `babel-jest`        | Jest plugin for Babel                           |
+| `react-icons`       | SVG react icons of popular icon packs           |
+| `react-toastify`    | React notification library                      |
+| `react-router-dom`  | DOM bindings for React Router                   |
+| `styled-components` | Visual primitives for the component age         |
+| `react-helmet-async`| A document head manager for React               |
+| `vite-plugin-sitemap` | Generate sitemap.xml using Vite               |
 
-Run npm i 
+**You do not have to specify any extensions suffix to any file in this system.**
 
-then 
+To get started, run: 
 
-Run npm run dev 
+```
+npm i
+```
+To start the server, run:
 
-Check the port assigned to you! It will by default be http://localhost:5173/
+```
+npm run dev 
+```
 
-Do not forget to build when you are ready for the production
+***Check the port assigned to you! It will by default be*** 
 
-Run npm run build
+```
+http://localhost:5173/
+```
+
+**Do not forget to build when you are ready for the production**
+
+```
+npm run build
+```
